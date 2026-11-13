@@ -1,0 +1,2 @@
+Students Build Robot For Science Fair
+A group of middle school students built a robot that can sort recycling for the regional science fair. The robot uses a camera and a simple computer program to tell plastic from paper.
